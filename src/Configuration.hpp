@@ -1,11 +1,10 @@
 #pragma once
 #include "MatrixSolver.hpp"
 
-
 /*
 A yaml configuration reader.
 
-Data is read from a yaml file in the constructor and accessible then. 
+Data is read from a yaml file in the constructor and accessible then.
 */
 struct Configuration {
 
